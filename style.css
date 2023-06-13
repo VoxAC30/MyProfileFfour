@@ -1,0 +1,26 @@
+h1{
+    font-family: 'Moirai One', cursive;
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+}
+body{
+    background-color: #484848;
+}
+table, td {
+    color: #ffffff;
+    font-family: 'Yuji Hentaigana Akebono', cursive;
+    font-size: 19px;
+    border: 0.5px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+    width: 40%;
+    
+}
+.center{
+    text-align: center;
+}
+
+a{
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    color: #ffffff;
+}
